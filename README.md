@@ -11,6 +11,6 @@ Language : C/C++
 Library : Win32 API  
 
 # Video
-- Playing Video (50sec)
+- Playing Video (51sec)
 
 [![Video Label](http://img.youtube.com/vi/vNzWUH_taOc/0.jpg)](https://youtu.be/vNzWUH_taOc)
